@@ -1,7 +1,7 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Lucas Kauã 👋
 
 ## Sobre mim
-- 🌱 Estudante front-end.
+- 🌱 Estudando para me tornar um desenvolvedor front-end.
 - 🤖 Desenvolvendo bots para o Discord.
 
 ## Projetos Destacados
