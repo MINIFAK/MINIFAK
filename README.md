@@ -1,9 +1,8 @@
 <p align="center">MINIFAK</p>
 
-<p align="left">Olá! Sou Lucas Kauã, nascido em 2008 e apaixonado por desenvolvimento front-end. Atualmente, estou estudando JavaScript, com o objetivo de expandir meus conhecimentos além do front-end e explorar diversas tecnologias e áreas da programação. Além da programação, estou me dedicando aos estudos de inglês, atualmente no nível básico. Sinta-se à vontade para entrar em contato por e-mail ou Discord.</p>
+<p align="left">Olá! Sou Lucas Kauã, nascido em 2008 e apaixonado por desenvolvimento front-end. Atualmente, estou estudando JavaScript, com o objetivo de expandir meus conhecimentos além do front-end e explorar diversas tecnologias e áreas da programação. Além da programação, estou me dedicando aos estudos de inglês, atualmente no nível básico.No meu tempo livre desenvolvo bot para o Discord. Sinta-se à vontade para entrar em contato por e-mail ou Discord.</p>
 <p align="left">- 🌱 Estudando para me tornar um desenvolvedor front-end.</p>
 <p align="left">- 🤖 Desenvolvendo bots para o Discord.</p>
-###
 
 <p align="left">Conhecimento em:</p>
 
