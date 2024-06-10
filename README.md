@@ -1,8 +1,10 @@
 <p align="center">MINIFAK</p>
 
-<p align="left">Olá! Sou Lucas Kauã, nascido em 2008 e apaixonado por desenvolvimento front-end. Atualmente, estou estudando JavaScript, com o objetivo de expandir meus conhecimentos além do front-end e explorar diversas tecnologias e áreas da programação. Além da programação, estou me dedicando aos estudos de inglês, atualmente no nível básico.No meu tempo livre desenvolvo bot para o Discord. Sinta-se à vontade para entrar em contato por e-mail ou Discord.</p>
-<p align="left">- 🌱 Estudando para me tornar um desenvolvedor front-end.</p>
-<p align="left">- 🤖 Desenvolvendo bots para o Discord.</p>
+###
+
+<p align="left">Olá! Sou Lucas Kauã, nascido em 2008 e apaixonado por desenvolvimento front-end. Atualmente, estou estudando JavaScript, com o objetivo de expandir meus conhecimentos além do front-end e explorar diversas tecnologias e áreas da programação. Além da programação, estou me dedicando aos estudos de inglês, atualmente no nível básico. Sinta-se à vontade para entrar em contato por e-mail ou Discord.</p>
+
+###
 
 <p align="left">Conhecimento em:</p>
 
@@ -35,7 +37,19 @@
 </div>
 
 ###
-</hr>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MINIFAK&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MINIFAK&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MINIFAK&radius=16&theme=react&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<p align="left">Rede Socias e Contato:</p>
+
+###
+
 <div align="left">
   <a href="minifakdev15@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -44,16 +58,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MINIFAK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MINIFAK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
 
 ###
