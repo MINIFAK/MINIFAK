@@ -38,6 +38,10 @@
 
 ###
 
+<p align="left">Rede Socias e Contato:</p>
+
+###
+
 <div align="left">
   <a href="minifakdev15@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -55,8 +59,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MINIFAK&radius=16&theme=react&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<p align="left">Rede Socias e Contato:</p>
 
 ###
