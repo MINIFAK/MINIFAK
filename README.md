@@ -1,60 +1,33 @@
-<p align="center">MINIFAK</p>
+# Olá! Eu sou Lucas Kauã 👋
 
-###
+### Desenvolvedor Full-Stack em Aprendizado
 
-<p align="left">Olá! Sou Lucas Kauã, nascido em 2008 e apaixonado por desenvolvimento front-end. Atualmente, estou estudando JavaScript, com o objetivo de expandir meus conhecimentos além do front-end e explorar diversas tecnologias e áreas da programação. Além da programação, estou me dedicando aos estudos de inglês, atualmente no nível básico. Sinta-se à vontade para entrar em contato por e-mail ou Discord.</p>
+Tenho 16 anos e estou começando minha jornada como programador, com foco em **React**, **Next.js** e **TypeScript**. Nos últimos 6 meses, venho estudando e praticando desenvolvimento full-stack, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
-###
+### 📚 O que estou aprendendo:
+- **Front-end**: React, Next.js
+- **Back-end**: Node.js, Express
+- **Linguagens**: TypeScript, JavaScript
+- **Banco de Dados**: PostgreSQL, Firebase
+- **Design de Interfaces**: Figma
 
-<p align="left">Conhecimento em:</p>
+### 📫 Como entrar em contato:
+- E-mail: [minifakdev15@gmail.com](mailto:minifakdev15@gmail.com)
+- Discord: [Lucas Kauã (MINIFAK)](https://discord.com/channels/@me/551109710833647631)
 
-###
+### Sobre mim
+Comecei a estudar programação recentemente, em 2024, e me gostei muito pelo processo de criar aplicativos web funcionais e interativos. Ainda estou explorando diversas áreas e tecnologias, mas meu foco tem sido construir uma base sólida em **React**, **Next** e **TypeScript** para trabalhar tanto no front-end quanto no back-end.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+Apesar de ainda estar no início da minha jornada, estou animado com os projetos que tenho pela frente e ansioso para continuar aprendendo!
 
-###
-
-<p align="left">Estudando Atualmente:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<p align="left">Rede Socias e Contato:</p>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/channels/@me/1051235809044471830" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MINIFAK&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MINIFAK&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MINIFAK&radius=16&theme=react&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </div>
-
-
-###
